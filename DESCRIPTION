@@ -1,0 +1,15 @@
+Package: bioc2ebi
+Title: Tools to prepare legacy bioconductor releases for submission to EBI Biostudies archive
+Description: Tools to prepare legacy bioconductor releases for EBI Biostudies. 
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: R (>= 4.1)
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+LazyData: yes
+biocViews: Infrastructure
+VignetteBuilder: knitr
+RoxygenNote: 7.1.2
+Encoding: UTF-8
